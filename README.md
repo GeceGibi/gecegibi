@@ -4,10 +4,11 @@
 Hola,
 I have been here for **3**
 
-Since then I pushed **986** commits, opened **206** issues, submitted **17** pull requests and across **10** personal projects.
+Since then I pushed **987** commits, opened **206** issues, submitted **17** pull requests and across **10** personal projects.
 
 
 Most used languages across my projects:
+
 ![Dart](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300B4AB&message=Dart%EF%B8%B153.3%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B128.2%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B18.6%25)
