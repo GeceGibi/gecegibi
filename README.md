@@ -4,7 +4,7 @@
 Hola,
 I have been here for **3** years
 
-Since then I pushed **1049** commits, opened **208** issues, submitted **18** pull requests and across **11** personal projects.
+Since then I pushed **1049** commits, opened **208** issues, submitted **19** pull requests and across **11** personal projects.
 
 
 Most used languages across my projects:
