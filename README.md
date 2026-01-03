@@ -1,19 +1,31 @@
+### Hi there 👋
 
+I'm a **Mobile Application Developer** specializing in **Flutter & Dart**.
 
+---
 
-Hola,
-I have been here for **4** years
+### 🛠️ Tech Stack
 
-Since then I pushed **1191** commits, opened **216** issues, submitted **20** pull requests and across **15** personal projects.
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github&theme=light" />
+</div>
 
+### 📦 Published Packages
 
-Most used languages across my projects:
+<div align="left">
+  <a href="https://pub.dev/packages/marqueer"><img src="https://img.shields.io/pub/v/marqueer?label=marqueer&style=flat-square&color=0175C2" alt="marqueer"></a>
+  <a href="https://pub.dev/packages/via"><img src="https://img.shields.io/pub/v/via?label=via&style=flat-square&color=0175C2" alt="via"></a>
+  <a href="https://pub.dev/packages/lite_server"><img src="https://img.shields.io/pub/v/lite_server?label=lite_server&style=flat-square&color=0175C2" alt="lite_server"></a>
+</div>
 
-![Dart](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300B4AB&message=Dart%EF%B8%B154.2%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B124.9%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B17.3%25)
-![Makefile](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23427819&message=Makefile%EF%B8%B13.2%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B12.2%25)
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B12%25)
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B11.8%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B14%25)
+---
+
+### 📊 GitHub Stats
+
+<div align="left">
+  <!-- NOTE: Change YOUR_USERNAME to your actual GitHub username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GeceGibi&show_icons=true&theme=buefy&hide_border=true" alt="Stats" />
+</div>
+
+<!-- Dynamic Stats Placeholders -->
+**Experience:** 8 years <br/>
