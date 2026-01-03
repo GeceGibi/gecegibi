@@ -23,8 +23,7 @@ I'm a **Mobile Application Developer** specializing in **Flutter & Dart**.
 ### 📊 GitHub Stats
 
 <div align="left">
-  <!-- NOTE: Change YOUR_USERNAME to your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=GeceGibi&show_icons=true&theme=buefy&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeceGibi&theme=dark&hide_border=true" alt="Stats" />
 </div>
 
 <!-- Dynamic Stats Placeholders -->
