@@ -29,3 +29,4 @@ I'm a **Mobile Application Developer** specializing in **Flutter & Dart**.
 
 <!-- Dynamic Stats Placeholders -->
 **Experience:** 8 years <br/>
+
