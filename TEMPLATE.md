@@ -24,9 +24,8 @@ I'm a **Mobile Application Developer** specializing in **Flutter & Dart**.
 
 <div align="left">
   <!-- NOTE: Change YOUR_USERNAME to your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=buefy&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GeceGibi&show_icons=true&theme=buefy&hide_border=true" alt="Stats" />
 </div>
 
 <!-- Dynamic Stats Placeholders -->
 **Experience:** {{ ACCOUNT_AGE }} years <br/>
-**Contributions:** {{ COMMITS }} commits | {{ PULL_REQUESTS }} PRs | {{ ISSUES }} issues
