@@ -1,14 +1,32 @@
+### Hi there 👋
 
+I'm a **Mobile Application Developer** specializing in **Flutter & Dart**.
 
+---
 
-Hola,
-I have been here for **{{ ACCOUNT_AGE }}** years
+### 🛠️ Tech Stack
 
-Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests and across **{{ REPOSITORIES }}** personal projects.
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github&theme=light" />
+</div>
 
+### 📦 Published Packages
 
-Most used languages across my projects:
+<div align="left">
+  <a href="https://pub.dev/packages/marqueer"><img src="https://img.shields.io/pub/v/marqueer?label=marqueer&style=flat-square&color=0175C2" alt="marqueer"></a>
+  <a href="https://pub.dev/packages/via"><img src="https://img.shields.io/pub/v/via?label=via&style=flat-square&color=0175C2" alt="via"></a>
+  <a href="https://pub.dev/packages/lite_server"><img src="https://img.shields.io/pub/v/lite_server?label=lite_server&style=flat-square&color=0175C2" alt="lite_server"></a>
+</div>
 
-{{ LANGUAGE_TEMPLATE_START }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
+---
+
+### 📊 GitHub Stats
+
+<div align="left">
+  <!-- NOTE: Change YOUR_USERNAME to your actual GitHub username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=buefy&hide_border=true" alt="Stats" />
+</div>
+
+<!-- Dynamic Stats Placeholders -->
+**Experience:** {{ ACCOUNT_AGE }} years <br/>
+**Contributions:** {{ COMMITS }} commits | {{ PULL_REQUESTS }} PRs | {{ ISSUES }} issues
